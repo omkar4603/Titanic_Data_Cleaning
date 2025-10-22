@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Task 1: Data Cleaning & Preprocessing – Titanic Dataset
 
 Objective
@@ -69,3 +70,4 @@ A boxplot was used to detect outliers in the `Fare` column.
 sns.boxplot(x=df['Fare'])
 plt.title("Fare Boxplot (Before Outlier Removal)")
 plt.show()
+=======
